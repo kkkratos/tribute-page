@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(2, 18, 95, 0.576);
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: 31.5%;
+    border-radius: 20px;
+}
+#img-caption{
+    font-size: 16px;
+    text-align: center;
+    font-family:cursive
+}
+#description{
+    text-align: center;
+    font-size: 20px;
+}
+ul{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#link{
+    text-align: center;
+    font-size: 20px;
+}
+#tribute-link{
+    text-decoration: none;
+    color: brown;
+}
